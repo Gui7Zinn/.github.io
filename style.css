@@ -1,5 +1,7 @@
 body {
   background: linear-gradient(90deg, rgb(42, 2, 68), rgba(21, 6, 53, 0.74));
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .Titulo {
