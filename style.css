@@ -89,3 +89,8 @@ border-radius: 150px;
   margin-left: 320px;
   padding-top: 15px;
 }
+
+@media screen and (max-width: 600px) {
+  Texto {
+    text-align: center;
+    wildth: 100%;
