@@ -1,0 +1,91 @@
+body {
+  background: linear-gradient(90deg, rgb(42, 2, 68), rgba(21, 6, 53, 0.74));
+}
+
+.Titulo {
+  color: pink;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.Fotos {
+    width: 350px;
+    height: 400px;
+    display: flex;
+    padding-bottom: 15px;
+    margin-left: 450px;
+}
+
+.Fotos img {
+  margin-right: 10px;
+  border: 10px solid black;
+  border-radius: 15px;
+}
+
+.Texto {
+  color: pink;
+  text-align: center;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blueviolet;
+  border-radius: 30px;
+  width: 900px;
+  height: 110px;
+  margin-left: 310px;
+  padding-top: 15px;
+}
+
+.Fotos2 {
+  width: 350px;
+  height: 400px;
+  display: flex;
+  padding-bottom: 50px;
+  margin-left: 450px;
+}
+
+.Fotos2 img {
+margin-right: 10px;
+border: 10px solid black;
+border-radius: 15px;
+}
+
+.Foto3 {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  margin-left: 490px;
+}
+
+.Foto3 img {
+margin-right: 80px;
+border: 10px solid black;
+border-radius: 150px;
+}
+
+.Titulo2 {
+  color: pink;
+  text-align: center;
+}
+
+.Titulo3 {
+  color: pink;
+  display: flex;
+  margin-left: 510px;
+}
+
+.Titulo3 h2 {
+  margin-right: 170px;
+}
+
+.Titulo4 {
+  color: pink;
+  text-align: center;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blueviolet;
+  border-radius: 30px;
+  width: 900px;
+  height: 220px;
+  margin-left: 320px;
+  padding-top: 15px;
+}
